@@ -16,8 +16,7 @@ Hi! I am a software developer with over four (4) years of experience, a mentor, 
 
 ### Projects
 
-1. # Data Analytics Project
-   # Regression Analytics Using California Dataset
+1. # [Regression Analytics Using California Dataset](https://github.com/DPsalmist/data_analytics_project)
 
 ### Description
 This project shows a regression analysis under supervised machine learning. The aim was to predict the prices of the houses in California using the Sklearn California dataset.
